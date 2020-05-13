@@ -14,12 +14,15 @@ parties.
 Links to privacy policies of third party service providers used in the app:\
 
 <b>Google Play Services</b>
+
 https://www.google.com/policies/privacy
 
 <b>AdMob</b>
+
 https://support.google.com/admob/answer/612854
 
 <b>Firebase Analytics</b>
+
 https://firebase.google.com/policies/analytics
 
 
@@ -56,18 +59,23 @@ cookie information (after 18 months)
 <b>Online resources:</b>
 
 <b>Privacy Policy</b>
+
 https://www.google.com/policies/technologies/ads
 
 <b>Opt out</b>
+
 https://www.google.com/settings/ads
 
 <b>Service Information</b>
+
 https://privacy.google.com/businesses/adsservices
 
 <b>Partner policy</b>
+
 https://policies.google.com/technologies/partner-sites
 
 <b>Ad technology providers</b>
+
 https://support.google.com/admob/answer/9012903
 
 
@@ -95,9 +103,11 @@ and ads.
 <b>Online resources:</b>
 
 <b>Google Terms of Service</b>
+
 https://policies.google.com/terms
 
 <b>Google Privacy Policy</b>
+
 https://policies.google.com/privacy
 
 
@@ -130,6 +140,7 @@ actions.
 The only official channel for distribution of this app are:
 
 <b>Google Play Store</b>
+
 https://play.google.com
 
 
