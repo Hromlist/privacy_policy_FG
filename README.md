@@ -9,16 +9,19 @@ disclosure of Personal Information if anyone decided to use this Service.
 
 The app uses advertising (and in app payments) to make revenue. The app uses third party
 libraries for advertising which may collect and share personal information with third
-parties.\n\n
+parties.
 
-Links to privacy policies of third party service providers used in the app:\n\n
+Links to privacy policies of third party service providers used in the app:\
 
 <b>Google Play Services</b>
 https://www.google.com/policies/privacy
+
 <b>AdMob</b>
 https://support.google.com/admob/answer/612854
+
 <b>Firebase Analytics</b>
 https://firebase.google.com/policies/analytics
+
 
 <b>2. Sharing Your Information</b>
 
@@ -54,14 +57,19 @@ cookie information (after 18 months)
 
 <b>Privacy Policy</b>
 https://www.google.com/policies/technologies/ads
+
 <b>Opt out</b>
 https://www.google.com/settings/ads
+
 <b>Service Information</b>
 https://privacy.google.com/businesses/adsservices
+
 <b>Partner policy</b>
 https://policies.google.com/technologies/partner-sites
+
 <b>Ad technology providers</b>
 https://support.google.com/admob/answer/9012903
+
 
 <b>3.2 Google Play Services</b>
 
@@ -88,8 +96,10 @@ and ads.
 
 <b>Google Terms of Service</b>
 https://policies.google.com/terms
+
 <b>Google Privacy Policy</b>
 https://policies.google.com/privacy
+
 
 <b>4. Security</b>
 
@@ -121,6 +131,7 @@ The only official channel for distribution of this app are:
 
 <b>Google Play Store</b>
 https://play.google.com
+
 
 Any other mode of distribution is not official and thus, is not maintained by the developer.
 This privacy policy is effective to distribution made on official channel only.
