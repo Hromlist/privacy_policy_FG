@@ -11,7 +11,7 @@ The app uses advertising (and in app payments) to make revenue. The app uses thi
 libraries for advertising which may collect and share personal information with third
 parties.
 
-Links to privacy policies of third party service providers used in the app:\
+Links to privacy policies of third party service providers used in the app:
 
 <b>Google Play Services</b>
 
