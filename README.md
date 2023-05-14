@@ -25,6 +25,9 @@ https://support.google.com/admob/answer/612854
 
 https://firebase.google.com/policies/analytics
 
+<b>MyTarget</b>
+
+https://legal.my.com/us/mytarget/privacy
 
 <b>2. Sharing Your Information</b>
 
